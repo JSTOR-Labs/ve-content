@@ -6,7 +6,7 @@
        layout="index"
        banner="/images/header.jpg">
 
-# Visual Essays 2
+# Visual Essays
 
 Visual essays are web pages created from annotated text files. The text files are formatted using  [Markdown](https://www.markdownguide.org/getting-started/), a lightweight markup language. The essay text can be annotated with simple tags that associate entities (people, locations, etc), images, maps, and videos with sections of text, typically paragraphs but can also be as small as a single word or as large as the entire essay. The visual essay tools add interactive visualizations to the rendered web page using information contained in the tags.
 
@@ -18,14 +18,14 @@ The ability to easily associate text with maps and multimedia is useful but the 
 
 
 ##
-[Cherry blossoms](/sample)
+[Cherry blossoms](sample)
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cherry20190331105300.jpg/1024px-Cherry20190331105300.jpg)
 
 Example essay demonstrating a number of visual essay features. 
 
 ##
-[Kent seaside resorts](/kent-seaside-resorts)
+[Kent seaside resorts](kent-seaside-resorts)
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_sands%2C_Ramsgate%2C_Kent%2C_England%2C_ca._1899.jpg/640px-The_sands%2C_Ramsgate%2C_Kent%2C_England%2C_ca._1899.jpg)
 
@@ -39,7 +39,7 @@ A visual essay using IIIF image annotations.
 Examples of different uses of maps in a visual essay.
 
 ##
-[Ginevra de Benci](/ginevra-de-benci)
+[Ginevra de Benci](ginevra-de-benci)
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ginevra_de%27_Benci_-_National_Gallery_of_Art.jpg/465px-Ginevra_de%27_Benci_-_National_Gallery_of_Art.jpg)
 
