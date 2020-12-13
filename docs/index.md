@@ -18,7 +18,7 @@ The ability to easily associate text with maps and multimedia is useful but the 
 
 
 ##
-[Cherry blossoms](sample)
+[Cherry blossoms](./sample)
 
 ![](https://dev.visual-essays.app/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cherry20190331105300.jpg/1024px-Cherry20190331105300.jpg)
 
