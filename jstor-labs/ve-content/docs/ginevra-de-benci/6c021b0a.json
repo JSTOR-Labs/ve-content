@@ -4,8 +4,8 @@
   "type": "AnnotationPage",
   "partOf": {
     "id": "http://visual-essays.app/annotations/?include=description&target=jstor-labs/ve-content/docs/ginevra-de-benci//6c021b0a",
-    "total": 2,
-    "modified": "2021-01-13T18:16:28.756500"
+    "total": 3,
+    "modified": "2021-01-13T18:17:00.192139"
   },
   "startIndex": 0,
   "items": [
@@ -50,6 +50,27 @@
       "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "jstor-labs/ve-content/docs/ginevra-de-benci//6c021b0a/40ce9614",
       "seq": 1
+    },
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Da Vinci thumbprint",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:7558.68115234375,6330.43359375,467.19091796875,337.0546875"
+        },
+        "id": "jstor-labs/ve-content/docs/ginevra-de-benci//6c021b0a"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jstor-labs/ve-content/docs/ginevra-de-benci//6c021b0a/11a4d0c0",
+      "seq": 2
     }
   ]
 }
