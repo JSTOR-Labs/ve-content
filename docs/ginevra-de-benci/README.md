@@ -16,13 +16,18 @@
 
 <param ve-image iiif primary manifest="Ginevra_de_Benci-iiifhosting.json">
 
- <span eid="Q1267893">Ginevra de' Benci</span> is a portrait painting by Leonardo da Vinci of the 15th-century Florentine aristocrat <span eid="Q3494135">Ginevra de' Benci</span> (born c.  1458).[^1] The oil-on-wood portrait was acquired by the National Gallery of Art in Washington, D.C. in 1967. The sum of US$5 million—an absolute record price at the time—came from the Ailsa Mellon Bruce Fund and was paid to the Princely Family of Liechtenstein. It is the only <span data-mouseover-image-zoomto="f5e620db">painting</span> by Leonardo on public view in the Americas.[^2]
+## testing
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque unde similique provident nemo exercitationem sed! Doloribus, iste est quae sequi quis pariatur illum placeat atque animi ullam reiciendis ipsum quos.
+<param ve-image url="https://digital.onb.ac.at/rep/access/iiif/image/v2/5af078d29f16830c5724f778c6beb33d515d7a6fc0610e062f6737a170c1d34e339f9aefdef459ddebadfff555bbd0993bc3bba5aaaaca/info.json">
+
+<span eid="Q1267893">Ginevra de' Benci</span> is a portrait painting by Leonardo da Vinci of the 15th-century Florentine aristocrat <span eid="Q3494135">Ginevra de' Benci</span> (born c.  1458).[^1] The oil-on-wood portrait was acquired by the National Gallery of Art in Washington, D.C. in 1967. The sum of US$5 million—an absolute record price at the time—came from the Ailsa Mellon Bruce Fund and was paid to the Princely Family of Liechtenstein. It is the only <span data-mouseover-image-zoomto="f5e620db">painting</span> by Leonardo on public view in the Americas.[^2]
 
 Ginevra de' Benci, a well-known young Florentine woman, is universally considered to be the portrait's sitter. Leonardo painted the portrait in <span data-click-map-flyto="43.77,11.253,12">Florence</span> between 1474 and 1478, possibly to commemorate Ginevra's marriage to Luigi di Bernardo Niccolini at the age of 16. More likely, it commemorates the engagement. Commonly, contemporary portraits of females were commissioned for either of two occasions: betrothal or marriage. Wedding portraits traditionally were created in pairs, with the woman on the right, facing left; since this portrait faces right, it more likely represents betrothal.[^3]
 <param ve-map prefer-geojson center="Q2044" zoom="7" basemap="Stamen_TerrainBackground">
 
 The <span data-mouseover-image-zoomto="6642,307,2220,3721">juniper bush</span> that surrounds Ginevra's head and fills much of the background, serves more than mere decorative purposes. In <span data-click-image-zoomto="7183,6142,2259,3101">Renaissance Italy</span>, the juniper was regarded a symbol of female virtue, while the Italian word for juniper, ginepro, also makes a play on Ginevra's name.[^4] The imagery and text on the reverse of the panel further support the identification of this picture. The reverse is decorated with a juniper sprig encircled by a wreath of laurel and palm and is memorialized by the phrase Virtvtem Forma Decorat ("Virtue Adorns Beauty").
- <param ve-image manifest="Ginerva_de_Benci-reverse.json">
+<param ve-image manifest="Ginerva_de_Benci-reverse.json">
 
 The Latin motto Virtvtem Forma Decorat on the reverse of the portrait, is understood as symbolizing the intricate relationship between Ginevra's intellectual and moral virtue on the one hand, and her physical beauty on the other. The sprig of juniper, encircled by laurel and palm, suggests her name. The laurel and palm are in the personal emblem of Bernardo Bembo, a Venetian ambassador to Florence whose platonic relationship with Ginevra is revealed in poems exchanged between them. Infrared examination has revealed Bembo's motto "Virtue and Honor" beneath Ginevra's, making it likely that Bembo was somehow involved in the commission of the portrait.
  <param ve-image iiif manifest="Ginerva_de_Benci-reverse.json">
