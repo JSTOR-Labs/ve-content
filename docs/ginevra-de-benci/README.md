@@ -14,7 +14,7 @@
 <param ve-entity title="Ginevra de' Benci" eid="Q3494135">
 <param ve-entity title="Leonardo da Vinci" eid="Q762">
 
-<param ve-image primary manifest="Ginevra_de_Benci-iiifhosting.json">
+<param ve-image primary manifest="https://jstor-labs.github.io/iiif/manifests/Ginevra_de_Benci-labs.json">
 
 <span eid="Q1267893">Ginevra de' Benci</span> is a portrait painting by Leonardo da Vinci of the 15th-century Florentine aristocrat <span eid="Q3494135">Ginevra de' Benci</span> (born c.  1458).[^1] The oil-on-wood portrait was acquired by the National Gallery of Art in Washington, D.C. in 1967. The sum of US$5 million—an absolute record price at the time—came from the Ailsa Mellon Bruce Fund and was paid to the Princely Family of Liechtenstein. It is the only <span data-mouseover-image-zoomto="f5e620db">painting</span> by Leonardo on public view in the Americas.[^2]
 
