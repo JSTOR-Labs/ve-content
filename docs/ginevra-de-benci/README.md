@@ -25,7 +25,7 @@ The <span data-mouseover-image-zoomto="6642,307,2220,3721">juniper bush</span> t
 <param ve-image manifest="Ginerva_de_Benci-reverse.json">
 
 The Latin motto Virtvtem Forma Decorat on the reverse of the portrait, is understood as symbolizing the intricate relationship between Ginevra's intellectual and moral virtue on the one hand, and her physical beauty on the other. The sprig of juniper, encircled by laurel and palm, suggests her name. The laurel and palm are in the personal emblem of Bernardo Bembo, a Venetian ambassador to Florence whose platonic relationship with Ginevra is revealed in poems exchanged between them. Infrared examination has revealed Bembo's motto "Virtue and Honor" beneath Ginevra's, making it likely that Bembo was somehow involved in the commission of the portrait.
- <param ve-image iiif manifest="Ginerva_de_Benci-reverse.json">
+ <param ve-image iiif manifest="Ginevra_de_Benci-reverse.json">
 
 The portrait is one of the highlights of the National Gallery of Art, and is admired by many for its portrayal of Ginevra's temperament. Ginevra is beautiful, but austere; she has no hint of a smile and her gaze, although forward, seems indifferent to the viewer.[^5]
 <param ve-image manifest="Ginevra_de_Benci-iiifhosting.json" region="pct:40,40,20,20">
